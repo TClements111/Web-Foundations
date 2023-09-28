@@ -1,0 +1,12 @@
+/*Tanner Clements 8931873*/
+body{
+    height : 100vh;
+    width : 100vw;
+    background-color: hsla(260, 25%, 60%, 0.5);
+    font: normal, normal, normal 12px/1.5 Verdana, Arial, Helvetica, sans-serif;
+    padding: 2em;
+}
+h2{
+    color: #fc0;
+    font-size: 2rem;
+}
