@@ -6,7 +6,50 @@ body{
     font: normal, normal, normal 12px/1.5 Verdana, Arial, Helvetica, sans-serif;
     padding: 2em;
 }
+
 h2{
     color: #fc0;
     font-size: 2rem;
+}
+
+header{
+    background-color: hsl(200, 45%, 50%);
+}
+
+main{
+    background-color: hsl(38, 100%, 23%);
+    float :left;
+    width : 65vw;
+    height : 60vh;
+}
+aside{
+    background-color: hsl(173, 100%, 50%);
+    float : right;
+    width : 25vw;
+    height : 60vh;
+}
+footer{
+    background-color: hsl(0, 100%, 77%);
+    clear : both;
+}
+
+.structural{
+    padding : 10px;
+    margin : 10px;
+    border : 2px solid black;
+}
+
+#para1{
+    color : rgb(239, 7, 243);
+}
+#para2{
+    color : rgb(48, 200, 48);
+}
+
+a:hover{
+    color : #09c
+}
+
+footer p{
+    font-size : .75em;
 }
